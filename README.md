@@ -10,7 +10,6 @@ Source: Jinrong China (GOLD 1-minute bars, decrypted from the app API).
 | data/xauusd_1m.csv | ~20,000 | Full 1-minute series (over 1 MB: use the weekly shards below for API reads) |
 | data/xauusd_5m.csv | ~4,000 | Aggregated from 1m |
 | data/xauusd_1h.csv | ~330 | Aggregated from 1m |
-| data/xauusd_1d.csv | ~20 | Daily bars aggregated from real 1m (UTC calendar days) |
 | data/1m/2026-W??.csv | ~7,000 each | 1-minute bars split by ISO week, each under 500 KB |
 | data/raw/YYYY-MM-DD.json | ~1,400 each | Original decoded 1-minute bars split by UTC date, each under 500 KB |
 | data/jinrong_raw.json | ~20,000 bars | Original Jinrong response (decoded 1m bars) |
@@ -18,9 +17,7 @@ Source: Jinrong China (GOLD 1-minute bars, decrypted from the app API).
 | UPDATE_LOG.md | — | Latest K-line time, bar counts and update time per update |
 
 Columns: `datetime_utc,open,high,low,close,vol` (UTC, 2 decimals).
-Aggregation uses UTC clock boundaries; volume is summed. Daily bars use
-UTC calendar days (00:00-23:59 UTC); Sunday bars cover only the evening
-session (market opens Sunday ~22:00 UTC).
+Aggregation uses UTC clock boundaries; volume is summed.
 
 Note: GitHub's Contents API returns no content for files over 1 MB, so the
 full 1-minute CSV and the raw JSON are split into shards under 500 KB each.
