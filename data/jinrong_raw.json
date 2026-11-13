@@ -13,13 +13,13 @@
   "request_body": {
    "symbol": "GOLD",
    "periodType": 1,
-   "start": 1794564149,
-   "end": 1794571349
+   "start": 1794568121,
+   "end": 1794575321
   },
   "response": {
    "errcode": "0",
    "msg": "success",
-   "data": "VOEwSCNtTjImczFj7fhNA0yPxQ6FecYjZLDmJ8EGXUJLTSNoYh9GwMuZlfSA3RlBnxUyjGbRrxm3nN6KOj27y66bYTQu9g2QmUwSRt2Mutez0P3hV0UJL/4Ep9z+ubLQuJ3v963i0Y457/NFWYus37PobsjOt4De5h3Ey92FwHI+WtDcMDm0DnX/M0KEPL4TKr/Q7THZDQJhr0oBI+S/xRSWP5KW7wAwOa0D6VAUGwzdzFVralf/cth4Aw50gxceW752BHrGLAB3SigmjzrbwK2YVd0C0JFlqHgzIp02SUbX7VcZAwoFosf0wDeBsXrhNWi0U7AcU7UYWhQi+MrYkxW57NGG227FQTDoJCnJccMb1oyuDCHHYUMKI/BtrYmkGiUnwYe4AX6jvAvxtYAEtxz68DENf2tYPPmtplLrX9Yp5KKI6nggYbzUu5Y5WkRsK7sAG10wcDJ53eUCRcvqOVFmEkjJ/bi4SR8OA+ts+bhUGzJIqMoAvdWXJs5tHmyTkWIMRBkkyYC7nX7ITdJrLVSaRY/42EssWyTwo7nQ20vRKocVl5EB4tY18VsA7I9Sh3T0V2CZS7AfoHLTbVZcR/dzxysxnM4agZHVHKhMISAQgtQQrdzYe5pf3yErjDWowWY1iL8IMOhA8s4z73fC/lNo4WP8H/OC2gQnLaRsXXkR7IoxgUXuoCZSQYV3cZ15hTRwXkgNWZHoE3EO7eWfe2byHxcpGkSv0D1NpAt5KYbCygAWS89weENWEIXDibwkWF8fbIp3pDUaT5CTsUrMudnBukxnTn/nr28D3bqgES6OapgQ1uC04WaNeBIMJWQ41V2iCPz9hQzbAVhgwwgxMz6ibNyH/RwAz5nZsBRqHKc6bVkKTrIdZ+y0FUBJx04RphQJ1I9Z8Au82PIZchtpxvFOfX/+0LAuEt8N2fZd1DyRDu50lqkd+lr8SjA49bhgl+81eAsoO+M50/x3GOuXCQb0j8KLd95gNytGv6x7JOCjCHCdKSn0bKkoyO4ZF6OaRAJFwlr3NK3qK5RZgCIlC7l3EWJKBwOTo/OLO77BhMVrQe32oo/nkwoWpqn3ZnvajgdTlwgNwwsc4hvlBsntlY08p4Ajx4wZAiOZJZ3CEcUjNFtfedMjDzacEBNF5BnfBQUWiuRZx7i9CI675MMV2CI3PXG+U+QVJ3Ns4tNcqGUKEN8iWYOOickOnhnL5vNu78Bhcqhs9tXIbn5rQvs9DTlDuX64NbuxI7khF6uyAHcvNLTBFCW4q5Ihs01bgylbO0nJk0f3giB/dtR0u9tMjd1XbGQHjekOHrXlM2BNUOcYW+k4nQPrL2njEmilLVjOW7ikgStWtGt13h5fXMy+/hrCBTcpcQGXtYoGBKkiZcAnOVK0jopaV8MT+W794uJNaqcSLgdGDDbTFouw6aRdQYSrkhG0nikNQD9wXY00U88rQdrwc7TFz2ozuA9uy7Dc/SI9xdTFYk/Fh/OVjIkktdklRJ1pWgh20EzVW00y4R6DFWCVSD59YZNw9m8M4A9WYlMpyt40VPx0vJ2wkyLLSmRAEMvoXWDbbs3sIezvlQVknjuOqqv9ZbLiV5jMjUVR/7uu+Rzxs3cpNMu15kEj85IRtXtafCQlFgcc+nXKgQatUMsmgOAZodas75ueukMBOu4enOezCvCVr9IEH2fb0uPjctT92YHf14ERY+Ex9Kwe5XN7TqA5rO06cr2GHO9or6OdmaSpHQcl0z+nABT0u6GCLTxRdguhPP8CNEmqqxHLPto/Xk5LtlNZw/XwHu+LyaBrwV8aBhruoDJu1P18vEjOyn1ZJr7g2/Lq7aZabzju+dStC00U17l9xN7vWeNqvbkhuFAAHBXIRMLddO454VV/Cxk3HiUOm8+M1DMYBMzLftqvso8/iwpvyjfSycP5RS50FDS6MDmvDisHC4BOun7+1JnH9atGjIVIUBgYYaEd0Si/z//vpftaJKtR3siBHalWx6ovJEUE+459H7p73ppK9L3dmVMqFgAX1d0BQKwykUcGYQgzOfbgn754eXJZj3EDR5KlUMSP+WAOGJjQrXhBAnopL/JAEEeSm8EvVnTFo7wDPoLRivPk+1lJS6QPUv7sWFL6zeBbvxV2DG5w/TXNb6ABovGhFcO1uRn38WnJyDrgsf22cWyoWKZxs4yoKAU3oovNl02EW4kzgxGXj9+zbiqd/F54W4MxCCB03mnqo0JYbxEy88yce/Lr7qai7fTTSew9ijbJwek/vE5nb9j/phJLkIplhSXfDX95MhRqqUuDqrr8ab4rGexcOvbcVHFMmI9+Vn/ORZjdG3qNWbDWZ9FU3Si71v5w/F7Cohgkke1OzrtsRiq4uOui2VM2dF5Ie1vj86Nff2j9S6fQ0hn5UHkX8ygBG0YQV4bELjtflrvN6jRYKacfZgXzwhAqMsCQdZxZHw8lIS/rff2iW+oNriB7gYQMiV1ZNQ==",
+   "data": "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",
    "symbol": "GOLD"
   }
  },
@@ -160565,8 +160565,536 @@
    "open": 3894.83,
    "high": 3896.43,
    "low": 3894.37,
-   "close": 3896.0,
+   "close": 3896.11,
+   "vol": 239.0
+  },
+  {
+   "time": 1794571380,
+   "open": 3896.12,
+   "high": 3896.35,
+   "low": 3895.15,
+   "close": 3895.27,
+   "vol": 247.0
+  },
+  {
+   "time": 1794571440,
+   "open": 3895.28,
+   "high": 3896.0,
+   "low": 3894.45,
+   "close": 3895.14,
+   "vol": 230.0
+  },
+  {
+   "time": 1794571500,
+   "open": 3895.17,
+   "high": 3895.2,
+   "low": 3893.34,
+   "close": 3893.79,
+   "vol": 221.0
+  },
+  {
+   "time": 1794571560,
+   "open": 3893.8,
+   "high": 3895.66,
+   "low": 3893.79,
+   "close": 3895.66,
+   "vol": 172.0
+  },
+  {
+   "time": 1794571620,
+   "open": 3895.67,
+   "high": 3895.68,
+   "low": 3894.6,
+   "close": 3895.13,
+   "vol": 173.0
+  },
+  {
+   "time": 1794571680,
+   "open": 3895.14,
+   "high": 3895.6,
+   "low": 3894.52,
+   "close": 3894.52,
+   "vol": 152.0
+  },
+  {
+   "time": 1794571740,
+   "open": 3894.47,
+   "high": 3895.12,
+   "low": 3893.05,
+   "close": 3893.51,
+   "vol": 188.0
+  },
+  {
+   "time": 1794571800,
+   "open": 3893.58,
+   "high": 3893.99,
+   "low": 3892.53,
+   "close": 3892.91,
+   "vol": 223.0
+  },
+  {
+   "time": 1794571860,
+   "open": 3893.11,
+   "high": 3893.73,
+   "low": 3892.68,
+   "close": 3893.22,
+   "vol": 123.0
+  },
+  {
+   "time": 1794571920,
+   "open": 3893.38,
+   "high": 3895.28,
+   "low": 3893.38,
+   "close": 3895.03,
+   "vol": 160.0
+  },
+  {
+   "time": 1794571980,
+   "open": 3895.02,
+   "high": 3896.34,
+   "low": 3894.51,
+   "close": 3896.3,
+   "vol": 159.0
+  },
+  {
+   "time": 1794572040,
+   "open": 3896.31,
+   "high": 3896.31,
+   "low": 3894.29,
+   "close": 3894.43,
+   "vol": 201.0
+  },
+  {
+   "time": 1794572100,
+   "open": 3894.46,
+   "high": 3894.86,
+   "low": 3894.16,
+   "close": 3894.6,
+   "vol": 151.0
+  },
+  {
+   "time": 1794572160,
+   "open": 3894.57,
+   "high": 3895.04,
+   "low": 3894.41,
+   "close": 3894.53,
+   "vol": 135.0
+  },
+  {
+   "time": 1794572220,
+   "open": 3894.59,
+   "high": 3895.58,
+   "low": 3894.57,
+   "close": 3895.51,
+   "vol": 147.0
+  },
+  {
+   "time": 1794572280,
+   "open": 3895.16,
+   "high": 3895.85,
+   "low": 3894.88,
+   "close": 3895.07,
+   "vol": 180.0
+  },
+  {
+   "time": 1794572340,
+   "open": 3895.08,
+   "high": 3895.12,
+   "low": 3893.39,
+   "close": 3893.49,
+   "vol": 209.0
+  },
+  {
+   "time": 1794572400,
+   "open": 3893.48,
+   "high": 3894.6,
+   "low": 3893.48,
+   "close": 3894.14,
+   "vol": 185.0
+  },
+  {
+   "time": 1794572460,
+   "open": 3894.16,
+   "high": 3894.73,
+   "low": 3894.16,
+   "close": 3894.33,
+   "vol": 122.0
+  },
+  {
+   "time": 1794572520,
+   "open": 3894.34,
+   "high": 3895.15,
+   "low": 3894.34,
+   "close": 3894.87,
+   "vol": 127.0
+  },
+  {
+   "time": 1794572580,
+   "open": 3894.83,
+   "high": 3895.41,
+   "low": 3894.69,
+   "close": 3895.41,
+   "vol": 106.0
+  },
+  {
+   "time": 1794572640,
+   "open": 3895.38,
+   "high": 3895.67,
+   "low": 3894.72,
+   "close": 3894.93,
+   "vol": 182.0
+  },
+  {
+   "time": 1794572700,
+   "open": 3894.91,
+   "high": 3894.96,
+   "low": 3893.8,
+   "close": 3894.32,
+   "vol": 157.0
+  },
+  {
+   "time": 1794572760,
+   "open": 3894.35,
+   "high": 3895.43,
+   "low": 3894.18,
+   "close": 3894.83,
+   "vol": 139.0
+  },
+  {
+   "time": 1794572820,
+   "open": 3894.82,
+   "high": 3895.66,
+   "low": 3894.64,
+   "close": 3894.64,
+   "vol": 136.0
+  },
+  {
+   "time": 1794572880,
+   "open": 3894.63,
+   "high": 3894.7,
+   "low": 3893.8,
+   "close": 3894.14,
+   "vol": 133.0
+  },
+  {
+   "time": 1794572940,
+   "open": 3894.11,
+   "high": 3894.29,
+   "low": 3893.7,
+   "close": 3894.24,
+   "vol": 112.0
+  },
+  {
+   "time": 1794573000,
+   "open": 3894.21,
+   "high": 3894.22,
+   "low": 3893.02,
+   "close": 3893.29,
+   "vol": 204.0
+  },
+  {
+   "time": 1794573060,
+   "open": 3893.3,
+   "high": 3893.33,
+   "low": 3891.28,
+   "close": 3891.37,
+   "vol": 187.0
+  },
+  {
+   "time": 1794573120,
+   "open": 3891.5,
+   "high": 3891.88,
+   "low": 3891.41,
+   "close": 3891.59,
+   "vol": 140.0
+  },
+  {
+   "time": 1794573180,
+   "open": 3892.06,
+   "high": 3892.2,
+   "low": 3891.24,
+   "close": 3891.4,
+   "vol": 215.0
+  },
+  {
+   "time": 1794573240,
+   "open": 3891.43,
+   "high": 3892.03,
+   "low": 3891.11,
+   "close": 3891.67,
+   "vol": 175.0
+  },
+  {
+   "time": 1794573300,
+   "open": 3891.68,
+   "high": 3892.3,
+   "low": 3891.51,
+   "close": 3892.25,
+   "vol": 185.0
+  },
+  {
+   "time": 1794573360,
+   "open": 3892.26,
+   "high": 3892.34,
+   "low": 3889.62,
+   "close": 3889.77,
+   "vol": 291.0
+  },
+  {
+   "time": 1794573420,
+   "open": 3889.71,
+   "high": 3890.03,
+   "low": 3889.3,
+   "close": 3889.49,
    "vol": 208.0
+  },
+  {
+   "time": 1794573480,
+   "open": 3889.55,
+   "high": 3889.99,
+   "low": 3889.21,
+   "close": 3889.4,
+   "vol": 156.0
+  },
+  {
+   "time": 1794573540,
+   "open": 3890.1,
+   "high": 3890.76,
+   "low": 3890.02,
+   "close": 3890.1,
+   "vol": 175.0
+  },
+  {
+   "time": 1794573600,
+   "open": 3890.08,
+   "high": 3890.37,
+   "low": 3889.78,
+   "close": 3889.97,
+   "vol": 173.0
+  },
+  {
+   "time": 1794573660,
+   "open": 3890.02,
+   "high": 3890.39,
+   "low": 3889.31,
+   "close": 3889.45,
+   "vol": 172.0
+  },
+  {
+   "time": 1794573720,
+   "open": 3889.43,
+   "high": 3890.03,
+   "low": 3888.8,
+   "close": 3889.64,
+   "vol": 183.0
+  },
+  {
+   "time": 1794573780,
+   "open": 3889.63,
+   "high": 3890.45,
+   "low": 3889.47,
+   "close": 3889.99,
+   "vol": 158.0
+  },
+  {
+   "time": 1794573840,
+   "open": 3890.04,
+   "high": 3890.45,
+   "low": 3889.54,
+   "close": 3890.25,
+   "vol": 163.0
+  },
+  {
+   "time": 1794573900,
+   "open": 3890.26,
+   "high": 3890.49,
+   "low": 3888.32,
+   "close": 3888.48,
+   "vol": 189.0
+  },
+  {
+   "time": 1794573960,
+   "open": 3888.37,
+   "high": 3888.7,
+   "low": 3888.06,
+   "close": 3888.12,
+   "vol": 147.0
+  },
+  {
+   "time": 1794574020,
+   "open": 3887.24,
+   "high": 3887.26,
+   "low": 3885.68,
+   "close": 3887.1,
+   "vol": 286.0
+  },
+  {
+   "time": 1794574080,
+   "open": 3887.16,
+   "high": 3888.35,
+   "low": 3887.16,
+   "close": 3887.97,
+   "vol": 221.0
+  },
+  {
+   "time": 1794574140,
+   "open": 3888.04,
+   "high": 3889.4,
+   "low": 3887.73,
+   "close": 3889.36,
+   "vol": 183.0
+  },
+  {
+   "time": 1794574200,
+   "open": 3889.39,
+   "high": 3890.06,
+   "low": 3889.23,
+   "close": 3889.4,
+   "vol": 227.0
+  },
+  {
+   "time": 1794574260,
+   "open": 3889.41,
+   "high": 3890.37,
+   "low": 3888.95,
+   "close": 3889.58,
+   "vol": 238.0
+  },
+  {
+   "time": 1794574320,
+   "open": 3889.61,
+   "high": 3889.84,
+   "low": 3888.54,
+   "close": 3888.54,
+   "vol": 180.0
+  },
+  {
+   "time": 1794574380,
+   "open": 3888.36,
+   "high": 3889.07,
+   "low": 3886.6,
+   "close": 3887.82,
+   "vol": 310.0
+  },
+  {
+   "time": 1794574440,
+   "open": 3887.81,
+   "high": 3887.81,
+   "low": 3886.41,
+   "close": 3886.84,
+   "vol": 249.0
+  },
+  {
+   "time": 1794574500,
+   "open": 3886.83,
+   "high": 3887.48,
+   "low": 3886.47,
+   "close": 3887.36,
+   "vol": 268.0
+  },
+  {
+   "time": 1794574560,
+   "open": 3887.37,
+   "high": 3887.4,
+   "low": 3885.92,
+   "close": 3885.94,
+   "vol": 238.0
+  },
+  {
+   "time": 1794574620,
+   "open": 3886.13,
+   "high": 3887.79,
+   "low": 3885.74,
+   "close": 3887.7,
+   "vol": 260.0
+  },
+  {
+   "time": 1794574680,
+   "open": 3887.66,
+   "high": 3888.59,
+   "low": 3887.46,
+   "close": 3888.09,
+   "vol": 188.0
+  },
+  {
+   "time": 1794574740,
+   "open": 3888.22,
+   "high": 3889.42,
+   "low": 3888.22,
+   "close": 3888.74,
+   "vol": 244.0
+  },
+  {
+   "time": 1794574800,
+   "open": 3888.97,
+   "high": 3891.48,
+   "low": 3888.62,
+   "close": 3889.94,
+   "vol": 591.0
+  },
+  {
+   "time": 1794574860,
+   "open": 3889.76,
+   "high": 3892.52,
+   "low": 3889.68,
+   "close": 3890.74,
+   "vol": 451.0
+  },
+  {
+   "time": 1794574920,
+   "open": 3890.72,
+   "high": 3890.78,
+   "low": 3888.89,
+   "close": 3889.14,
+   "vol": 405.0
+  },
+  {
+   "time": 1794574980,
+   "open": 3889.29,
+   "high": 3890.34,
+   "low": 3888.45,
+   "close": 3890.34,
+   "vol": 359.0
+  },
+  {
+   "time": 1794575040,
+   "open": 3890.73,
+   "high": 3892.6,
+   "low": 3890.39,
+   "close": 3892.46,
+   "vol": 346.0
+  },
+  {
+   "time": 1794575100,
+   "open": 3892.47,
+   "high": 3892.63,
+   "low": 3890.01,
+   "close": 3891.46,
+   "vol": 405.0
+  },
+  {
+   "time": 1794575160,
+   "open": 3891.13,
+   "high": 3892.15,
+   "low": 3890.14,
+   "close": 3890.31,
+   "vol": 321.0
+  },
+  {
+   "time": 1794575220,
+   "open": 3890.1,
+   "high": 3890.12,
+   "low": 3888.59,
+   "close": 3889.13,
+   "vol": 303.0
+  },
+  {
+   "time": 1794575280,
+   "open": 3888.75,
+   "high": 3889.46,
+   "low": 3888.17,
+   "close": 3888.41,
+   "vol": 288.0
   }
  ]
 }
