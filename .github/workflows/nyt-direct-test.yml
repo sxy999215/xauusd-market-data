@@ -1,0 +1,51 @@
+# NYT 直接抓取测试：不走代理、不用任何密码，只测 Actions Runner 自身出口 IP 是否被 NYT 拦。
+# 公开仓、无 secret。触发：Actions 页点 Run workflow。
+name: nyt-direct-test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Runner exit IP
+        run: |
+          curl -s --max-time 20 'http://ip-api.com/json/?fields=query,country,city,isp' || echo 'ip-api failed'
+          echo '---'
+          curl -s --max-time 20 'https://ifconfig.me' || echo 'ifconfig.me failed'
+
+      - name: Fetch NYT homepage
+        run: |
+          mkdir -p out
+          curl -s --max-time 60 -o out/nyt-home.html -w 'homepage: %{http_code} %{size_download} bytes %{time_total}s\n' 'https://www.nytimes.com/'
+          grep -o -m1 '<title>[^<]*' out/nyt-home.html || head -c 300 out/nyt-home.html
+          echo
+
+      - name: Fetch NYT article (Iowa ammunition plant)
+        run: |
+          curl -s --max-time 60 -o out/nyt-article.html -w 'article: %{http_code} %{size_download} bytes %{time_total}s\n' 'https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html'
+          grep -o -m1 '<title>[^<]*' out/nyt-article.html || head -c 300 out/nyt-article.html
+          echo
+
+      - name: Fetch same article via Jina Reader (no key)
+        run: |
+          curl -s --max-time 60 -o out/nyt-jina.md -w 'jina: %{http_code} %{size_download} bytes %{time_total}s\n' 'https://r.jina.ai/https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html'
+          head -c 400 out/nyt-jina.md
+          echo
+
+      - name: Summary
+        run: |
+          {
+            echo '## NYT direct fetch test'
+            echo ''
+            echo "- homepage: $(grep -c . out/nyt-home.html 2>/dev/null || echo 0) lines, $(wc -c < out/nyt-home.html) bytes"
+            echo "- article: $(wc -c < out/nyt-article.html) bytes"
+            echo "- jina: $(wc -c < out/nyt-jina.md) bytes"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: nyt-direct-test
+          path: out/
